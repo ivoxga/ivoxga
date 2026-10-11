@@ -8,12 +8,12 @@ I'm an Embedded Systems Engineer passionate about developing reliable, efficient
 
 ### My Tech Stack
 
-| Category                                   | Technologies & Tools                                                          |
-| ------------------------------------------ | ----------------------------------------------------------------------------- |
-| **Embedded Systems (Firmware & Hardware)** | `C/C++`, `FreeRTOS`, `MPLAB X`, `STM32CubeIDE`, `EAGLE PCB`, `LTspice`        |
-| **Automation**                             | `Sysmac Studio`, `PLC`, `HMI`                                                 |
-| **Robotics**                               | `MATLAB`, `Computer Vision (HSV)`, `Mobile Robot Kinematics`, `Path Planning` |
-| **Database**                               | `MySQL`                                                                       |
+| Category                                   | Technologies & Tools                                                                     |
+| ------------------------------------------ | ---------------------------------------------------------------------------------------- |
+| **Embedded Systems (Firmware & Hardware)** | `C/C++`, `FreeRTOS`, `MPLAB X`, `STM32CubeIDE`, `VS Code`, `EAGLE PCB`, `LTspice`        |
+| **Automation**                             | `Sysmac Studio`, `PLC`, `HMI`                                                            |
+| **Robotics**                               | `MATLAB`, `Computer Vision (HSV)`, `Mobile Robot Kinematics`, `Path Planning`            |
+| **Database**                               | `MySQL`                                                                                  |
 
 ---
 
