@@ -49,4 +49,4 @@ I'm an Embedded Systems Engineer passionate about developing reliable, efficient
 
 ---
 
-*Building reliable systems by bringing hardware and software together.*
+*If everything you try to do works, you're not trying hard enough.* - **Gordon Moore**
