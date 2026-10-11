@@ -1,12 +1,8 @@
 # Hi there, I'm Ivo Azevedo! 👋
 
-### Electronics Engineering | Embedded Systems & Firmware
+### Embedded Systems Engineer
 
-Electronics Technician and Electronics Engineering professional with a strong interest in **Embedded Systems, Firmware Development, PCB Design, and IoT**.
-
-I enjoy working at the intersection of hardware and software, from electronic circuit testing and debugging to low-level programming and communication between embedded devices.
-
-Currently expanding my knowledge in microcontrollers, real-time systems, and hardware-software integration.
+I'm an Embedded Systems Engineer passionate about developing reliable, efficient, and well-integrated embedded solutions. 
 
 ---
 
