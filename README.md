@@ -8,15 +8,12 @@ I'm an Embedded Systems Engineer passionate about developing reliable, efficient
 
 ### My Tech Stack
 
-| Category               | Technologies & Tools                                    |
-| ---------------------- | ------------------------------------------------------- |
-| Embedded Systems       | `C`, `C++`, `PIC`, `STM32`, `FreeRTOS`                  |
-| Firmware Development   | `MPLAB X`, `STM32CubeIDE`, `TouchGFX`                   |
-| Hardware & Electronics | `PCB Design`, `Circuit Debugging`, `Electronic Testing` |
-| Communication & IoT    | `UART`, `SPI`, `I²C`, `RS-485`, `LoRa`, `RFID`          |
-| Computer Architecture  | `RISC-V Assembly`, `Microprocessor Fundamentals`        |
-| Software & Data        | `Data Structures`, `Algorithms`, `SQL`, `MySQL`         |
-| Development Tools      | `Git`, `GitHub`                                         |
+| Category                                   | Technologies & Tools                                                          |
+| ------------------------------------------ | ----------------------------------------------------------------------------- |
+| **Embedded Systems (Firmware & Hardware)** | `C/C++`, `FreeRTOS`, `MPLAB X`, `STM32CubeIDE`, `EAGLE PCB`, `LTspice`        |
+| **Automation**                             | `Sysmac Studio`, `PLC`, `HMI`                                                 |
+| **Robotics**                               | `MATLAB`, `Computer Vision (HSV)`, `Mobile Robot Kinematics`, `Path Planning` |
+| **Database**                               | `MySQL`                                                                       |
 
 ---
 
@@ -36,8 +33,7 @@ I'm an Embedded Systems Engineer passionate about developing reliable, efficient
 
 ### GitHub Stats
 
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivoxga&show_icons=true&theme=catppuccin_mocha)
 
 
 ---
