@@ -2,7 +2,7 @@
 
 ### Embedded Systems Engineer
 
-I'm an Embedded Systems Engineer passionate about developing reliable, efficient, and well-integrated embedded solutions. 
+I'm an Junior Embedded Systems Engineer passionate about developing reliable, efficient, and well-integrated embedded solutions. 
 
 ---
 
