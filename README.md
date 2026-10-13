@@ -19,7 +19,7 @@ I'm an Junior Embedded Systems Engineer passionate about developing reliable, ef
 
 ### Featured Projects
 
-- **[LoRa & RFID Bus Stop Monitoring System](https://github.com/ivoxga)** — Embedded systems project focused on identifying buses through RFID and exchanging data between bus stops using LoRa communication.
+- **[LoRa & RFID Bus Stop Monitoring System](https://github.com/ivoxga/lora-rfid-bus-tracking)** — Embedded systems project focused on identifying buses through RFID and exchanging data between bus stops using LoRa communication.
 
 - **[Linked Lists & Graphs in C](https://github.com/ivoxga/linked-lists-matrix-c)** — Matrix manipulation using linked lists, graph structures, depth-first search (DFS), and path calculations.
 
